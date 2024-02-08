@@ -10,13 +10,13 @@
     z-index: 3;
 }
 .nav-link:hover{
-    color: #1115ff !important;
+    color: lime !important;
 }
 section{
     height: 100vh;
 }
 .home-container{
-    background-image: url("https://cdn.pixabay.com/photo/2015/09/23/08/16/thunder-953118_1280.jpg");
+    background-image: url("https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlZXxlbnwwfHwwfHx8MA%3D%3D");
     background-repeat: no-repeat;
     background-size: cover;
 }
